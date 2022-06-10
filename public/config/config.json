@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2EE969306d1D5F0AeA754024fE176A5594574cF5",
+  "SCAN_LINK": "https://etherscan.io/address/0x2EE969306d1D5F0AeA754024fE176A5594574cF5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mad World",
+  "SYMBOL": "MW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 21000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mad-world-official",
+  "SHOW_BACKGROUND": false
+}
