@@ -255,7 +255,7 @@ function App() {
             ) : (
               <>
                 <s.TextTitle style={{ textAlign: "center", color: "var(--accent-text)" }}>
-                  {CONFIG.DISPLAY_COST} {CONFIG.NETWORK.SYMBOL} per NFT.
+                  First 250 are FREE, then 0.002 ETH per NFT.
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription style={{ textAlign: "center", color: "var(--accent-text)" }}></s.TextDescription>
